@@ -29,4 +29,4 @@ A responsive weather application built with HTML, CSS, and JavaScript using the 
 
 ## 📷 Screenshot
 
-<img width="207" height="456" alt="image" src="https://github.com/user-attachments/assets/58729e96-51bb-468b-b49f-942b3e9299d1" />
+<img width="297" height="456" alt="image" src="https://github.com/user-attachments/assets/58729e96-51bb-468b-b49f-942b3e9299d1" />
